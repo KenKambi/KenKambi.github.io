@@ -1,6 +1,6 @@
 ---
 title: "OSM Wrapped"
-date: 2025-XX-XX 13:00:00 +/-TTTT
+date: 2025-10-23 13:00:00 +/-TTTT
 categories: [OpenStreetMap, React, Data Visualization]
 tags: [openstreetmap, react, osm, visualization, stats]
 ---
