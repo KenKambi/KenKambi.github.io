@@ -5,12 +5,13 @@ categories: [Perfumes, React, Whatsapp]
 tags: [perfumes, react, whatsapp ]     # TAG names should always be lowercase
 ---
 
-[**Gael Essence**](https://kenkambi.github.io/gael/) is a digital concept I built to explore the intersection of scent, user experience, and modern web technology. The idea behind it was simple: how can I create a seamless, elegant online experience that captures the essence of perfume shopping, while integrating familiar tools like WhatsApp for easy communication?
+[**Gael Essence**](https://kenkambi.github.io/gael/) Gael Essence is an e-commerce web project for selling beauty preducts. The goal was to recreate the calm, elegant feeling of product discovery in an online space—minimalist, immersive, and intuitive🌸.
 
-Built using **React**, the interface is clean, responsive, and optimized for mobile use. I focused on creating a minimalist but immersive product showcase, where users can explore fragrance collections with visual cues and short descriptions. To simplify customer interaction, I integrated a WhatsApp chat feature—allowing users to make inquiries or place orders directly through the messaging platform.
+Built with React, the platform features a clean, responsive interface that works beautifully on mobile. To simplify customer interaction, I integrated a WhatsApp chat feature—allowing users to make inquiries or place orders directly through the messaging platform🌼.
 
-This project reflects my interest in combining storytelling, aesthetics, and tech to create digital experiences that feel personal and functional. It’s also a foundation for future ecommerce and fragrance-focused projects I hope to grow.
+This project reflects my interest in combining storytelling, aesthetics, and tech to create digital experiences that feel personal and functional. It’s also a foundation for future ecommerce projects I hope to grow🌻.
 
 
-[Visit site](https://kenkambi.github.io/gael/)  
-[GitHub code](https://github.com/KenKambi/gael)
+📱 [Visit Store](https://www.instagram.com/gael_essence?igsh=MWR3eTN6OW94MTM2cg==)  
+💻 [Visit site](https://kenkambi.github.io/gael/)  
+🏗️ [GitHub code](https://github.com/KenKambi/gael)

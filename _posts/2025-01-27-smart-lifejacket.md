@@ -8,7 +8,6 @@ tags: [lifejacket, gps, rfid, iot, maritime, safety, smart, innovation ]
 
 # Smart Lifejacket
 
-
 Traditional life jackets are essential, but they lack the capability to provide real-time tracking and distress signaling—leading to challenges in rescue operations.
 
 **Enter the Smart Life Jacket**, a next-generation solution that integrates **GPS**, **RFID**, **water sensors**, **panic buttons**, and **LoRa communication technology** to enhance emergency response and boost survival rates.
@@ -27,17 +26,12 @@ Traditional life jackets are essential, but they lack the capability to provide 
 ⛴ **Passenger Ferries & Cruise Ships** with RFID-based tracking.  
 🛟 **Flood & Disaster Response** for faster rescue operations.
 
----
 
 This life-saving technology goes beyond flotation, it enhances **rescue precision and speed**.
 
 Let’s innovate for safety!  
-[**Reach out**](https://www.linkedin.com/in/ken-kambi-15a035259/) for more information or collaboration.
+[**Reach out**](https://www.linkedin.com/in/ken-kambi-15a035259/) for more information.
 
----
 
-[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7295896179161128960/)
+🗂️ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7295896179161128960/)
 
-[Webpage GitHub code](https://github.com/KenKambi/Lifejacketweb)
-
-[Server Github code](https://github.com/KenKambi/Lifejacket)  
