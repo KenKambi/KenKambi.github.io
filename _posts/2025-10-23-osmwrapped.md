@@ -1,11 +1,11 @@
 ---
-title: "OSM Wrapped"
+title: "OSM Wrapped🌍"
 date: 2025-10-23 13:00:00 +/-TTTT
 categories: [OpenStreetMap, React, Data Visualization]
 tags: [openstreetmap, react, osm, visualization, stats]
 ---
 
-[**OSM Wrapped**](https://osmwrapped.netlify.app/) is a web application that visualizes and celebrates key overall and annual contributions of OpenStreetMap (OSM) members🌍. 
+[**OSM Wrapped**](https://osmwrapped.netlify.app/) is a web application that visualizes and celebrates key overall and annual contributions of OpenStreetMap (OSM) members📆. 
 
 Using **React**, the interface is designed to be responsive and data-driven highlighting each user’s journey in mapping. Enter your OSM username to generate a personalized summary including mapping streaks, changesets, countries contributed to, and other achievements📊.
 

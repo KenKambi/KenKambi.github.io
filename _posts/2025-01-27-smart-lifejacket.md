@@ -1,5 +1,5 @@
 ---
-title: "LIfejacket with GPS tracking and RFID identification."
+title: "LIfejacket with GPS tracking and RFID identification🛟"
 date: 2025-01-27 13:00:00 +/-TTTT
 categories: [Electronics, React, Maritime Safety,  Wearable Tech]
 tags: [lifejacket, gps, rfid, iot, maritime, safety, smart, innovation ] 
