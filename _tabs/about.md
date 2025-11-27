@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 I’m Kennedy Kambi — an Electronic and Computer Engineering graduate from Jomo Kenyatta University of Agriculture and Technology (JKUAT), passionate about building practical, real-world technology solutions. My work spans embedded systems, IoT, frontend development, open-data projects, and hands-on engineering prototypes. I enjoy taking ideas from concept to working systems, whether that means writing firmware, designing a PCB, building a digital dashboard, or creating an entire web experience.
