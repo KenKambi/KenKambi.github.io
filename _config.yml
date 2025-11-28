@@ -19,11 +19,11 @@ title: Ken Kambi # the main title
 tagline: My Engineering journey. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Ken Kambi, blogs, projects, github.
+  Ken Kambi, blogs, projects, github. Engineering blog by Ken Kambi featuring IoT systems, React projects, embedded engineering, PCB design, and hands-on project tutorials.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://KenKambi.github.io"
+url: "https://kenkambi.github.io"
 
 github:
   username: KenKambi # change to your GitHub username
@@ -41,15 +41,15 @@ social:
   email: kenkambi43@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    - https://www.linkedin.com/in/username # change to your LinkedIn homepage
+    - https://x.com/KenKambi # change to your Twitter homepage
+    - https://github.com/KenKambi # change to your GitHub homepage
+    - https://www.linkedin.com/in/ken-kambi-15a035259 # change to your LinkedIn homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: GTM-PZ2CZQ9D # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
