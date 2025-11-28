@@ -16,6 +16,7 @@ This internship gave me deep insight into how engineering teams design, document
 ![Numeral IOT](/assets/img/numeral1.jpeg "Assembly Team"){: .responsive-img }
 ![Numeral IOT](/assets/img/numeral2.jpeg "R&D Department"){: .responsive-img }
 
+
 <style>
     .responsive-img {
     width: 100%;
