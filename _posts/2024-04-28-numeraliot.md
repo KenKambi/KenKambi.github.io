@@ -13,11 +13,10 @@ Another highlight was contributing to the development of a **smart LPG metering 
 
 This internship gave me deep insight into how engineering teams design, document, test, and iterate on real products. It strengthened my debugging skills, improved my attention to detail, and showed me how innovation and teamwork come together to build impactful solutions in the IoT space.
 
-🗂️ [LinkedIn](https://www.linkedin.com/in/ken-kambi-15a035259/){target="_blank"}
-
 ![Numeral IOT](/assets/img/numeral2.jpeg "R&D Department")
 ![Numeral IOT](/assets/img/numeral1.jpeg "Assembly Team")
 
+🗂️ [LinkedIn](https://www.linkedin.com/in/ken-kambi-15a035259/)
 
 <style>
     .responsive-img {
