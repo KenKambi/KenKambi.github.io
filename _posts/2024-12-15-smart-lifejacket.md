@@ -30,8 +30,8 @@ Traditional life jackets are essential, but they lack the capability to provide 
 This life-saving technology goes beyond flotation, it enhances **rescue precision and speed**.
 
 Let’s innovate for safety!  
-[**Reach out**](https://www.linkedin.com/in/ken-kambi-15a035259/){target="_blank"} for more information.
+[**Reach out**](https://www.linkedin.com/in/ken-kambi-15a035259/) for more information.
 
 
-🗂️ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7295896179161128960/){target="_blank"}
+🗂️ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7295896179161128960/)
 

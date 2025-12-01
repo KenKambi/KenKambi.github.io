@@ -15,8 +15,8 @@ This internship gave me deep insight into how engineering teams design, document
 
 🗂️ [LinkedIn](https://www.linkedin.com/in/ken-kambi-15a035259/){target="_blank"}
 
-![Numeral IOT](/assets/img/numeral2.jpeg "R&D Department"){: .responsive-img }
-![Numeral IOT](/assets/img/numeral1.jpeg "Assembly Team"){: .responsive-img }
+![Numeral IOT](/assets/img/numeral2.jpeg "R&D Department")
+![Numeral IOT](/assets/img/numeral1.jpeg "Assembly Team")
 
 
 <style>
