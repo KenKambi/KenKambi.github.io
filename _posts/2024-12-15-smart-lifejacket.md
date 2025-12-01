@@ -2,7 +2,7 @@
 title: "LIfejacket with GPS tracking and RFID identification🛟"
 date: 2024-12-15 13:00:00 +/-TTTT
 categories: [Electronics, React, Maritime Safety,  Wearable Tech]
-tags: [lifejacket, gps, rfid, iot, maritime, safety, smart, innovation ] 
+tags: [lifejacket, gps, rfid, iot, maritime, safety, smart, innovation, embedded, esp32 ] 
     # TAG names should always be lowercase
 ---
 
@@ -30,8 +30,8 @@ Traditional life jackets are essential, but they lack the capability to provide 
 This life-saving technology goes beyond flotation, it enhances **rescue precision and speed**.
 
 Let’s innovate for safety!  
-[**Reach out**](https://www.linkedin.com/in/ken-kambi-15a035259/) for more information.
+[**Reach out**](https://www.linkedin.com/in/ken-kambi-15a035259/){target="_blank"} for more information.
 
 
-🗂️ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7295896179161128960/)
+🗂️ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7295896179161128960/){target="_blank"}
 
