@@ -16,7 +16,20 @@ To make it shareable and meaningful, OSM Wrapped includes:
 
 This project represents my passion for blending **tech, community, and storytelling**—using code not just to show data, but to make contributors feel seen and appreciated. It’s also a foundation for future updates like global leaderboards, and enhanced visual analytics💯.
 
+![OSM Wrapped](/assets/img/Joseph_Munyenze_osmwrapped.png "OSM Wrapped"){: .responsive-img }
+
 
 💻 [Visit site](https://osmwrapped.com)
 🏗️ [GitHub code](https://github.com/KenKambi/osmwrapped)
 🗂️ [LinkedIn](https://www.linkedin.com/in/ken-kambi-15a035259/)
+
+<style>
+    .responsive-img {
+    width: 100%;
+    height: auto;
+    max-width: 800px;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+  }
+</style>

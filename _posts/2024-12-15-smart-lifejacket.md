@@ -1,5 +1,5 @@
 ---
-title: "LIfejacket with GPS tracking and RFID identification🛟"
+title: "Smart LIfejacket🛟"
 date: 2024-12-15 13:00:00 +/-TTTT
 categories: [Electronics, React, Maritime Safety,  Wearable Tech]
 tags: [lifejacket, gps, rfid, iot, maritime, safety, smart, innovation, embedded, esp32 ] 
